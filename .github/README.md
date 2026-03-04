@@ -19,8 +19,7 @@ The aim is to help you easily understand, optimize and secure your website.
 ### Live Demo
 A hosted version can be accessed at: **https://web-check-pro.netlify.app/**
 
-### Mirror
-The source for this repo is mirrored to CodeBerg, available at: **[codeberg.org/alicia/web-check](https://codeberg.org/alicia/web-check)**
+
 
 ### Status
 
